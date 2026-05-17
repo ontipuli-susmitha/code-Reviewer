@@ -1,4 +1,6 @@
 streamlit
+pandas
+numpy
 streamlit-option-menu
 flake8
 black
@@ -6,3 +8,4 @@ radon
 bandit
 reportlab
 matplotlib
+
